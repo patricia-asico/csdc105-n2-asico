@@ -1,6 +1,6 @@
 Author          : Patricia P. Asico
 Course and Year : BSIT-1
-Filename        : asico_e2.py
+Filename        : csdc105-n2-asico/exercise2/asico_e2.py
 Description     : In this exercise you will have to demonstrate your knowledge in creating and using Python data structures (containers, in particular).
 Honor Code      : I have not given nor received any unathorized help in
                    completing this exercise. I am also well aware of the 
