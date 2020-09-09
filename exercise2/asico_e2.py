@@ -1,10 +1,10 @@
-# Author          : Patricia P. Asico
-# Course and Year : BSIT-1
-# Filename        : asico_e2.py
-# Description     : In this exercise you will have to demonstrate your knowledge in creating and using Python data structures (containers, in particular).
-# Honor Code      : I have not given nor received any unathorized help in
-#                   completing this exercise. I am also well aware of the 
-#                   policies stipulated in the AdNU student handbook.
+Author          : Patricia P. Asico
+Course and Year : BSIT-1
+Filename        : asico_e2.py
+Description     : In this exercise you will have to demonstrate your knowledge in creating and using Python data structures (containers, in particular).
+Honor Code      : I have not given nor received any unathorized help in
+                   completing this exercise. I am also well aware of the 
+                   policies stipulated in the AdNU student handbook.
 
 data = {"Complete name" : "Patricia P. Asico.", "Spirit animal" : "Owl, " ,  "Why You Think It Represents You" : "because just like an owl, I like to observe my surroundings and I have a quiet demeanor.",
       "Hobbies" : ["play video games", "draw", "sing"] , "Profession" : "Software engineer" }
