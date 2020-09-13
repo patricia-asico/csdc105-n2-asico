@@ -32,7 +32,7 @@ while T>0:                                      #loop for entering the values
 	second = 1
 	third = 0
 	temp = 0
-	T = T - 1
-	i = i + 1
+	T = T - 1						#for T
+	i = i + 1						#for case number
 print(string_fibo)						#prints the fibonacci for each case						
 
