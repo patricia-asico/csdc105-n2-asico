@@ -1,7 +1,8 @@
- # Author          : {Your complete came}
- # Course and Year : {Your course and year}
- # Filename        : {The name of your source file}
- # Description     : {A brief description of what this program does}
+ # Author          : Patricia P. Asico
+ # Course and Year : BSIT -1 
+ # Filename        : asico-probb.py
+ # Description     : Write a program that reads an integer and prints the sequence of Fibonacci numbers
+ #                   as a comma-separated list on a single line.
  # Honor Code      : I have not given nor received any unathorized help in
  #                   completing this exercise. I am also well aware of the 
  #                   policies stipulated in the AdNU student handbook.
@@ -27,11 +28,11 @@ while T>0:                                      #loop for entering the values
 			second = temp
 			third += 1
 	string_fibo += "\n"	
-	first=0
+	first=0							#resets fibo
 	second = 1
 	third = 0
 	temp = 0
 	T = T - 1
 	i = i + 1
-print(string_fibo)
+print(string_fibo)						#prints the fibonacci for each case						
 
