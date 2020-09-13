@@ -15,7 +15,7 @@ n = 1
 while T > 0:                                                #loop that enables to input height and character based on T
 	k, c = input().split()                                    #user inputs the height(k) and character(c)
 	k = int(k)
-	string_tri = string_tri + ("CASE ") + str(n) + (":\n") 
+	string_tri = string_tri + ("CASE ") + str(n) + (":\n")		#prints the case number
 	for i in range(0,k):                                      #loop for height
 		for j in range(0,k-i):                                  #loop for the spaces before characters
 			string_tri = string_tri + (" ")       
