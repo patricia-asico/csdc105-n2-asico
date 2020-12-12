@@ -30,7 +30,7 @@ class Valid():
 		self.ValidOrInvalid(self)
 
 	def ValidOrInvalid(self):
-		ValidStrings = ["div", "nav", "p", "span", ">", "+"]		# ValidStrings contains the valid html tags and operators
+		ValidStrings = ["div", "nav", "p", "span", ">", "+"]		# ValidStrings contains the valid html tags and operatorss
 		InvalidStrings = ["<", ">>", "+>", ">+", "++"]				# this line contains the invalid strings 
 		
 		if any (x in self.raw for x in InvalidStrings):				#statements that checks whether the strings are valid
