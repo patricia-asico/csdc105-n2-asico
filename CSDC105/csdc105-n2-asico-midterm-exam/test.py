@@ -18,5 +18,5 @@ while:
 		print(E)
 	
 	else:
-		print("Error: Unrecognized abbreviation\n")		#prints an error message if it returned false
+		print("Error: Unrecognized abbreviation\n")		#prints an error message if it returns false
 	
